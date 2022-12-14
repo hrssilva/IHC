@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">IHCpractice1_part1_ex1</string>
+    <string name="app_name">Atividade 1</string>
+    <string name="num_prompt1">Enter a number</string>
+    <string name="num_prompt2">Enter another number</string>
+    <string name="sum_txt">Sum</string>
+    <string name="res_txt"> </string>
 </resources>
