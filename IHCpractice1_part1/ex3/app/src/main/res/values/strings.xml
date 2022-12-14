@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">IHCpractice1_part1_ex3</string>
+    <string name="app_name">Atividade 3</string>
+    <string name="x_hint">X</string>
+    <string name="y_hint">Y</string>
+    <string name="z_hint">Z</string>
+    <string name="success_txt">Congratulations!\n You started moving!</string>
 </resources>
